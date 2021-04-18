@@ -1,24 +1,3 @@
-
-
-
-
-
-
-mean average precision
-
-目标检测常用指标之一
-
-
-
-> [目标检测中的mAP是什么含义？ - AICV的回答 - 知乎](https://www.zhihu.com/question/53405779/answer/993913699)
-
-|    目标检测     |      |        |                              |
-| :-------------: | :--: | :----: | :--------------------------: |
-| IoU > threshold |  TP  | 真阳性 | 同一 ground truth 只计算一次 |
-| IoU > threshold |  FP  | 假阳性 |             误报             |
-| IoU > threshold |  FN  | 假阴性 |             漏报             |
-| IoU > threshold |  TN  | 真阴性 |                              |
-
 中特：
 
 ---
